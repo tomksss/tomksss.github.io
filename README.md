@@ -1,2 +1,3 @@
-# tomksss.github.io
-you suck
+# You suck
+
+based off youareanidiot.cc
